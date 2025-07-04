@@ -44,3 +44,6 @@ Execution: Compiled and run using javac and java commands via terminal.
 
 # OUTPUT
 
+![Image](https://github.com/user-attachments/assets/012ebb24-d5f0-44c4-9023-27b5bba2a0cb)
+
+![Image](https://github.com/user-attachments/assets/23e06da0-6d18-4a56-8a26-c186c784991b)
